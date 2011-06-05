@@ -1,0 +1,7 @@
+C:\SPB_Data\Quoin\Quoin.Tests\bin\Debug\Quoin.Tests.dll
+C:\SPB_Data\Quoin\Quoin.Tests\bin\Debug\Quoin.Tests.pdb
+C:\SPB_Data\Quoin\Quoin.Tests\bin\Debug\xunit.dll
+C:\SPB_Data\Quoin\Quoin.Tests\bin\Debug\xunit.xml
+C:\SPB_Data\Quoin\Quoin.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\SPB_Data\Quoin\Quoin.Tests\obj\Debug\Quoin.Tests.dll
+C:\SPB_Data\Quoin\Quoin.Tests\obj\Debug\Quoin.Tests.pdb
