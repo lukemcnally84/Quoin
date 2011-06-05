@@ -1,0 +1,13 @@
+C:\SPB_Data\Quoin\Quoin.Specs\bin\Debug\Quoin.Specs.dll.config
+C:\SPB_Data\Quoin\Quoin.Specs\bin\Debug\Quoin.Specs.dll
+C:\SPB_Data\Quoin\Quoin.Specs\bin\Debug\Quoin.Specs.pdb
+C:\SPB_Data\Quoin\Quoin.Specs\bin\Debug\nunit.framework.dll
+C:\SPB_Data\Quoin\Quoin.Specs\bin\Debug\nunit.mocks.dll
+C:\SPB_Data\Quoin\Quoin.Specs\bin\Debug\pnunit.framework.dll
+C:\SPB_Data\Quoin\Quoin.Specs\bin\Debug\TechTalk.SpecFlow.dll
+C:\SPB_Data\Quoin\Quoin.Specs\bin\Debug\xunit.dll
+C:\SPB_Data\Quoin\Quoin.Specs\bin\Debug\nunit.framework.xml
+C:\SPB_Data\Quoin\Quoin.Specs\bin\Debug\xunit.xml
+C:\SPB_Data\Quoin\Quoin.Specs\obj\Debug\ResolveAssemblyReference.cache
+C:\SPB_Data\Quoin\Quoin.Specs\obj\Debug\Quoin.Specs.dll
+C:\SPB_Data\Quoin\Quoin.Specs\obj\Debug\Quoin.Specs.pdb
