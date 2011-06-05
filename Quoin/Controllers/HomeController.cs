@@ -10,7 +10,7 @@ namespace Quoin.Controllers
     {
         public virtual ActionResult Index()
         {
-            ViewBag.Message = "Welcome to ASP.NET MVC!";
+            ViewBag.Message = "Welcome to Quoin!";
 
             return View();
         }

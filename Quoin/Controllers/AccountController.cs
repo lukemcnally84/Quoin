@@ -48,7 +48,7 @@ namespace Quoin.Controllers
                     }
                     else
                     {
-                        return RedirectToAction("Index", "Home");
+                        return RedirectToAction(MVC.Home.Index());
                     }
                 }
                 else
@@ -69,7 +69,7 @@ namespace Quoin.Controllers
         {
             FormsService.SignOut();
 
-            return RedirectToAction("Index", "Home");
+            return RedirectToAction(MVC.Home.Index());
         }
 
         // **************************************
@@ -93,7 +93,7 @@ namespace Quoin.Controllers
                 if (createStatus == MembershipCreateStatus.Success)
                 {
                     FormsService.SignIn(model.UserName, false /* createPersistentCookie */);
-                    return RedirectToAction("Index", "Home");
+                    return RedirectToAction(MVC.Home.Index());
                 }
                 else
                 {
@@ -125,7 +125,7 @@ namespace Quoin.Controllers
             {
                 if (MembershipService.ChangePassword(User.Identity.Name, model.OldPassword, model.NewPassword))
                 {
-                    return RedirectToAction("ChangePasswordSuccess");
+                    return RedirectToAction(Actions.ChangePasswordSuccess());
                 }
                 else
                 {
