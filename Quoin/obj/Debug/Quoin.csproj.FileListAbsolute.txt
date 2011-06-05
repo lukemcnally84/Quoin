@@ -1,0 +1,9 @@
+C:\SPB_Data\Quoin\Quoin\bin\Quoin.dll
+C:\SPB_Data\Quoin\Quoin\bin\Quoin.pdb
+C:\SPB_Data\Quoin\Quoin\obj\Debug\ResolveAssemblyReference.cache
+C:\SPB_Data\Quoin\Quoin\obj\Debug\Quoin.dll
+C:\SPB_Data\Quoin\Quoin\obj\Debug\Quoin.pdb
+C:\SPB_Data\Quoin\Quoin\bin\Microsoft.Web.Mvc.dll
+C:\SPB_Data\Quoin\Quoin\bin\MvcContrib.dll
+C:\SPB_Data\Quoin\Quoin\bin\MvcContrib.TestHelper.dll
+C:\SPB_Data\Quoin\Quoin\bin\Rhino.Mocks.dll
